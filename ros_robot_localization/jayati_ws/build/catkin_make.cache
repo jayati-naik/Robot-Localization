@@ -1,0 +1,2 @@
+ros_robot_localization
+-DCATKIN_DEVEL_PREFIX=/home/compositecell2/Desktop/jayati_ws/devel -DCMAKE_INSTALL_PREFIX=/home/compositecell2/Desktop/jayati_ws/install -G Unix Makefiles

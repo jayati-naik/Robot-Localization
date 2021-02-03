@@ -1,0 +1,10 @@
+geometry_msgs/Point a1
+geometry_msgs/Point a2
+geometry_msgs/Point a3
+geometry_msgs/Point a4
+geometry_msgs/Point b1
+geometry_msgs/Point b2
+geometry_msgs/Point b3
+geometry_msgs/Point b4
+---
+geometry_msgs/Transform tr

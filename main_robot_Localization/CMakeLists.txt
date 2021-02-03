@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.9 FATAL_ERROR)
+project(robot_Localization_ros_service)
+find_package (Eigen3 3.3 REQUIRED NO_MODULE)
+add_executable(ros_exe RobotLocalizationROSService.cpp)
+target_link_libraries(ros_exe Eigen3::Eigen)
